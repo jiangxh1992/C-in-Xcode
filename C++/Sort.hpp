@@ -32,4 +32,11 @@ public:
     
 };
 
+/**
+ * 排序算法测试
+ */
+//Sort sort;
+//sort.bubblesort(sort.sortArray, sort.length);
+//sort.selectsort(sort.sortArray, sort.length);
+
 #endif /* Sort_Algorithm_hpp */

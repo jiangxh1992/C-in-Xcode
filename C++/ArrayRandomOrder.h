@@ -1,3 +1,14 @@
+//
+//  ArrayRandomOrder.h
+//  C++
+//
+//  Created by albeeert on 10/21/16.
+//  Copyright © 2016 Xinhou Jiang. All rights reserved.
+//
+
+#ifndef ArrayRandomOrder_h
+#define ArrayRandomOrder_h
+
 /*** 产生随机数组顺序 ***/
 #define LENGTH 25
 #include <time.h>
@@ -69,7 +80,8 @@ void Print() {
 
 int main() {
     IndexGenerate();
-    int Array[52] = {0};
     Print();
     return 0;
 }
+
+#endif /* ArrayRandomOrder_h */

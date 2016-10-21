@@ -26,8 +26,14 @@
 /* Begin PBXFileReference section */
 		F32B0C091D0B96AC00C658B3 /* C++ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C++"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F32B0C0C1D0B96AC00C658B3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		F33DD1341DA683D2008DFEF6 /* HuffmanTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HuffmanTree.h; sourceTree = "<group>"; };
+		F34D1F2C1DB9FD6600E28CE2 /* ArrayRandomOrder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ArrayRandomOrder.h; sourceTree = "<group>"; };
 		F379B5FE1D7EB1E20052F637 /* Sort.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Sort.cpp; sourceTree = "<group>"; };
 		F379B5FF1D7EB1E20052F637 /* Sort.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Sort.hpp; sourceTree = "<group>"; };
+		F39B3D3B1DB32FA80003015A /* Vector.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Vector.h; sourceTree = "<group>"; };
+		F39B3D3C1DB330030003015A /* Thread.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Thread.h; sourceTree = "<group>"; };
+		F3DE93F61DB89353006CB8C1 /* LZ77.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LZ77.h; sourceTree = "<group>"; };
+		F3DE93F71DB89B75006CB8C1 /* fstream.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = fstream.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,12 @@
 				F32B0C0C1D0B96AC00C658B3 /* main.cpp */,
 				F379B5FE1D7EB1E20052F637 /* Sort.cpp */,
 				F379B5FF1D7EB1E20052F637 /* Sort.hpp */,
+				F33DD1341DA683D2008DFEF6 /* HuffmanTree.h */,
+				F39B3D3B1DB32FA80003015A /* Vector.h */,
+				F39B3D3C1DB330030003015A /* Thread.h */,
+				F3DE93F61DB89353006CB8C1 /* LZ77.h */,
+				F3DE93F71DB89B75006CB8C1 /* fstream.h */,
+				F34D1F2C1DB9FD6600E28CE2 /* ArrayRandomOrder.h */,
 			);
 			path = "C++";
 			sourceTree = "<group>";
