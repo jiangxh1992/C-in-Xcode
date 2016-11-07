@@ -24,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		D24F42401DD0784D00FBC817 /* String.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = String.h; sourceTree = "<group>"; };
 		F32B0C091D0B96AC00C658B3 /* C++ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C++"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F32B0C0C1D0B96AC00C658B3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		F33DD1341DA683D2008DFEF6 /* HuffmanTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HuffmanTree.h; sourceTree = "<group>"; };
@@ -75,6 +76,7 @@
 				F3DE93F61DB89353006CB8C1 /* LZ77.h */,
 				F3DE93F71DB89B75006CB8C1 /* fstream.h */,
 				F34D1F2C1DB9FD6600E28CE2 /* ArrayRandomOrder.h */,
+				D24F42401DD0784D00FBC817 /* String.h */,
 			);
 			path = "C++";
 			sourceTree = "<group>";

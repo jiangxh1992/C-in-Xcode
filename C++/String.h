@@ -1,3 +1,14 @@
+//
+//  String.h
+//  C++
+//
+//  Created by Xinhou Jiang on 7/11/16.
+//  Copyright © 2016年 Xinhou Jiang. All rights reserved.
+//
+
+#ifndef String_h
+#define String_h
+
 /*** String字符串容器 ***/
 #include <iostream>
 #include <algorithm> // reverse
@@ -109,3 +120,5 @@ int main(){
     
     return 0;
 }
+
+#endif /* String_h */
