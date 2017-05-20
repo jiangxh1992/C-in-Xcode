@@ -14,7 +14,7 @@
 #include <fstream> // 文件流
 using namespace std;
 
-int main()
+int fin()
 {
     // 定义文件输入流
     ifstream fin("test.txt");

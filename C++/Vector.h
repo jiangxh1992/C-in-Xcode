@@ -33,6 +33,7 @@ int main(){
         cout<<*iter<<" ";
     }
     cout<<endl;
+
     return 0;
 }
 
