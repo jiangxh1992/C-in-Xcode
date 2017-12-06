@@ -28,6 +28,7 @@
 		D22A9E5E1EAC5EDD00DCEBEB /* Base.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Base.cpp; sourceTree = "<group>"; };
 		D22A9E5F1EAC5EDD00DCEBEB /* Base.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Base.hpp; sourceTree = "<group>"; };
 		D24F42401DD0784D00FBC817 /* String.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = String.h; sourceTree = "<group>"; };
+		D27574721EE13B5D00887F07 /* List.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = List.h; sourceTree = "<group>"; };
 		F32B0C091D0B96AC00C658B3 /* C++ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C++"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F32B0C0C1D0B96AC00C658B3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		F33DD1341DA683D2008DFEF6 /* HuffmanTree.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HuffmanTree.h; sourceTree = "<group>"; };
@@ -82,6 +83,7 @@
 				D24F42401DD0784D00FBC817 /* String.h */,
 				D22A9E5E1EAC5EDD00DCEBEB /* Base.cpp */,
 				D22A9E5F1EAC5EDD00DCEBEB /* Base.hpp */,
+				D27574721EE13B5D00887F07 /* List.h */,
 			);
 			path = "C++";
 			sourceTree = "<group>";
